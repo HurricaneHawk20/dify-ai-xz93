@@ -1,4 +1,4 @@
-# 
+# Atualizado Dify plugins. Com implantação de modelos e controle de versão — otimizado para máximo desempenho e eficiência.
 
 
 
